@@ -1,2 +1,4 @@
 Gitの練習
 あああ
+.git add
+.git commit
